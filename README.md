@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -105,4 +106,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0151-reverse-words-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
