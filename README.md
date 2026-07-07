@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0054-spiral-matrix) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0189-rotate-array) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -127,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0543-diameter-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
