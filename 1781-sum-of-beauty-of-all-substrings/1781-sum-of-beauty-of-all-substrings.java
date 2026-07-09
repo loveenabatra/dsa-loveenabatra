@@ -3,16 +3,18 @@ class Solution {
         int n=s.length();
         int sum=0;
         for(int i=0;i<n;i++){
-            Map<Character,Integer> m=new HashMap<>();
+            int[] freq=new int[26];
             for(int j=i;j<n;j++){
-                m.put(s.charAt(j),m.getOrDefault(s.charAt(j),0)+1);
+                freq[s.charAt(j)-'a']++;
+                int max=0;
                 int min=Integer.MAX_VALUE;
-                int max=Integer.MIN_VALUE;
-                for(int x:m.values()){
-                    min=Math.min(min,x);
-                    max=Math.max(max,x);
+                for(int x:freq){
+                    if(x>0){
+                        max=Math.max(max,x);
+                        min=Math.min(min,x);
+                    }
                 }
-                sum+=(max-min);
+                sum+=max-min;
             }
         }
         return sum;
