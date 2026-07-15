@@ -236,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0401-binary-watch) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
