@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3312-sorted-gcd-pair-queries](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1903-largest-odd-number-in-string) |
+| [3312-sorted-gcd-pair-queries](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
 |  |
 | ------- |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1004-max-consecutive-ones-iii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
@@ -228,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0069-sqrtx) |
 | [1004-max-consecutive-ones-iii](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1004-max-consecutive-ones-iii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3312-sorted-gcd-pair-queries) |
 ## Merge Sort
 |  |
 | ------- |
@@ -240,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -250,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1291-sequential-digits) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
