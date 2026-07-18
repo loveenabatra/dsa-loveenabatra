@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3312-sorted-gcd-pair-queries](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3867-sum-of-gcd-of-formed-pairs) |
