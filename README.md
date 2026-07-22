@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0450-delete-node-in-a-bst](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0200-number-of-islands) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
