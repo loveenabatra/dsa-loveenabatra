@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3312-sorted-gcd-pair-queries) |
+| [3536-maximum-product-of-two-digits](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0451-sort-characters-by-frequency) |
 | [3457-eat-pizzas](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
