@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1004-max-consecutive-ones-iii) |
+| [1260-shift-2d-grid](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1260-shift-2d-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0200-number-of-islands) |
+| [1260-shift-2d-grid](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1260-shift-2d-grid) |
 ## Prefix Sum
 |  |
 | ------- |
