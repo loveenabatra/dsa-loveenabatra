@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1004-max-consecutive-ones-iii) |
 ## Number Theory
 |  |
