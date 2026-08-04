@@ -6,10 +6,12 @@ class Solution {
         int j=b.length()-1;
         while(i>=0 || j>=0 || c==1){
             if(i>=0){
-                c+=a.charAt(i--)-'0';
+                c+=a.charAt(i)-'0';
+                i--;
             }
             if(j>=0){
-                c+=b.charAt(j--)-'0';
+                c+=b.charAt(j)-'0';
+                j--;
             }
             sb.append(c%2);
             c/=2;
