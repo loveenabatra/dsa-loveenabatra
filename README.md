@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0401-binary-watch) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0242-valid-anagram) |
