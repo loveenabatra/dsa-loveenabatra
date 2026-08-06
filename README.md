@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0560-subarray-sum-equals-k) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1903-largest-odd-number-in-string) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Combinatorics
@@ -385,4 +389,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0202-happy-number) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
