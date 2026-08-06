@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1248-count-number-of-nice-subarrays) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0424-longest-repeating-character-replacement) |
