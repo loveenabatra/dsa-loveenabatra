@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0876-middle-of-the-linked-list) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1903-largest-odd-number-in-string) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0424-longest-repeating-character-replacement) |
@@ -378,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
