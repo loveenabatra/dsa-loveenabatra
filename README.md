@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1248-count-number-of-nice-subarrays) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0198-house-robber) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
