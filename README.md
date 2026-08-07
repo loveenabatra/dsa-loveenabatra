@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1903-largest-odd-number-in-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0401-binary-watch) |
 | [1009-complement-of-base-10-integer](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1009-complement-of-base-10-integer) |
 ## Dynamic Programming
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
 ## Memoization
