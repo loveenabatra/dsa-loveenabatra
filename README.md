@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0560-subarray-sum-equals-k) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1903-largest-odd-number-in-string) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0401-binary-watch) |
 | [1009-complement-of-base-10-integer](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1009-complement-of-base-10-integer) |
 ## Dynamic Programming
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0560-subarray-sum-equals-k) |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2747-count-zero-request-servers](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2747-count-zero-request-servers) |
@@ -340,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1004-max-consecutive-ones-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3312-sorted-gcd-pair-queries) |
 ## Merge Sort
