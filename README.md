@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1903-largest-odd-number-in-string) |
