@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0326-power-of-three) |
+| [0357-count-numbers-with-unique-digits](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1903-largest-odd-number-in-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0198-house-robber) |
+| [0357-count-numbers-with-unique-digits](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0022-generate-parentheses) |
+| [0357-count-numbers-with-unique-digits](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0401-binary-watch) |
 ## Enumeration
 |  |
