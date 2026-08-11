@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2747-count-zero-request-servers](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2747-count-zero-request-servers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3312-sorted-gcd-pair-queries) |
 | [3457-eat-pizzas](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3467-transform-array-by-parity) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2747-count-zero-request-servers](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2747-count-zero-request-servers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2747-count-zero-request-servers](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2747-count-zero-request-servers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3457-eat-pizzas](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3517-smallest-palindromic-rearrangement-i) |
