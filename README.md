@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0268-missing-number) |
@@ -445,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0292-nim-game) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
