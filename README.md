@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1248-count-number-of-nice-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Number Theory
 |  |
 | ------- |
