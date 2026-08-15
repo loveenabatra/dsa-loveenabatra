@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3312-sorted-gcd-pair-queries) |
 | [3457-eat-pizzas](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3467-transform-array-by-parity) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0401-binary-watch) |
 | [1009-complement-of-base-10-integer](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1009-complement-of-base-10-integer) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
