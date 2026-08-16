@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1248-count-number-of-nice-subarrays) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
 ## Recursion
