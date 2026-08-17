@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0372-super-pow) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1903-largest-odd-number-in-string) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0190-reverse-bits) |
+| [0372-super-pow](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0372-super-pow) |
 ## Counting
 |  |
 | ------- |
@@ -473,4 +475,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0279-perfect-squares) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
