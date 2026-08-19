@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0372-super-pow) |
+| [0382-linked-list-random-node](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0382-linked-list-random-node) |
 | [0509-fibonacci-number](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1903-largest-odd-number-in-string) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
@@ -487,4 +489,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0372-super-pow) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
