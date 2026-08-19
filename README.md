@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0401-binary-watch) |
 | [1009-complement-of-base-10-integer](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1248-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2747-count-zero-request-servers](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3457-eat-pizzas](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/3457-eat-pizzas) |
