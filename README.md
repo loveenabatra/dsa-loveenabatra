@@ -497,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/0382-linked-list-random-node) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/loveenabatra/dsa-loveenabatra/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
